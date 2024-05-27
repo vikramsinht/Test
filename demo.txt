@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Hello There.
-There are two more files.
-Hi there
-=======
-Hello there....
-This is demo!
->>>>>>> New-Release
+Hello there.
+This is demmo!
+
